@@ -66,4 +66,4 @@ Git 에러 해결
         git config --global user.name "깃허브 이름"
 
 
-(slack, notion)
+(slack, notion)1
